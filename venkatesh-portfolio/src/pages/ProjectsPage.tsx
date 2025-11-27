@@ -17,7 +17,7 @@ const projects: Project[] = [
   },
   {
     name: "MedWorld Expo – Healthcare Exhibition Platform",
-    tech: "PHP, MySQL, JavaScript, Bootstrap",
+    tech: "React, MySQL, JavaScript, Bootstrap",
     description:
       "Platform for managing healthcare events and exhibitions with appointment scheduling, exhibitor management, and workflow automation.",
     role: "Developed modules for exhibitors, appointments, secure authentication, and admin views.",
@@ -37,11 +37,11 @@ const projects: Project[] = [
     role: "Backend API design, database schema, and integration with frontend.",
   },
   {
-    name: "E-Commerce Website",
-    tech: "PHP, MySQL, HTML, CSS",
+    name: "E-Commerce Product Management System (Personal Project)",
+    tech: "React, TypeScript, Free UI Template, Node.js (TypeScript), MongoDB, Socket.io",
     description:
-      "Basic online store supporting product listing, cart management, and simple order workflow.",
-    role: "Developed product management, cart logic, and database integration.",
+      "Personal e-commerce platform similar to Flipkart workflows. Includes product listing, product details, add-to-cart, order placement, and admin product management. Integrated real-time notifications for order updates using sockets. Built with a responsive UI using a free React template.",
+    role: "Developing full e-commerce workflow (products → cart → orders), building admin module, implementing backend APIs using Node.js & TypeScript, managing MongoDB collections, and integrating real-time order notifications using Socket.io. Project currently in active development.",
   },
 ];
 
